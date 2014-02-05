@@ -1,0 +1,5 @@
+Archivo creado con vim
+:wq leeme.txt 
+:W
+
+
